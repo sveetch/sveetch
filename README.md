@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on too many projects
 
-- 👨‍💻 All of my projects are available at [https://sveetch.github.io/](https://sveetch.github.io/)
+- 👨‍💻 My most important projects are listed in [https://sveetch.github.io/](https://sveetch.github.io/)
 
 - 📫 How to reach me **sveetch on Gmail**
 
